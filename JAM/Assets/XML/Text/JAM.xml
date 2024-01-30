@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_BUDDHIST_TEMPLE</Tag>
+    <English>Buddhist Chaitya</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_CHRISTIAN_TEMPLE</Tag>
+    <English>Christian Church</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_CONFUCIAN_TEMPLE</Tag>
+    <English>Confucian Kong Miao</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_HINDU_TEMPLE</Tag>
+    <English>Hindu Mandir</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_ISLAMIC_TEMPLE</Tag>
+    <English>Muslim Mosque</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_JEWISH_TEMPLE</Tag>
+    <English>Jewish Synagogue</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_TAOIST_TEMPLE</Tag>
+    <English>Taoist Guan</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BUDDHIST_MISSIONARY</Tag>
+    <English>Buddhist Bhikkhu</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY</Tag>
+    <English>Christian Priest</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CONFUCIAN_MISSIONARY</Tag>
+    <English>Confucian Shidafu</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_HINDU_MISSIONARY</Tag>
+    <English>Hindu Pujari</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ISLAMIC_MISSIONARY</Tag>
+    <English>Muslim Imam</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY</Tag>
+    <English>Jewish Kohen</English>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_TAOIST_MISSIONARY</Tag>
+    <English>Taoist Daoshi</English>
+  </TEXT>
+</Civ4GameText>
